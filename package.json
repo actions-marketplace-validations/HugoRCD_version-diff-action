@@ -22,9 +22,9 @@
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^2.3.1",
-    "@types/node": "^22.19.11",
+    "@types/node": "^22.19.15",
     "bun-types": "latest",
-    "eslint": "^9.39.3",
+    "eslint": "^9.39.4",
     "typescript": "^5.9.3"
   }
 }
